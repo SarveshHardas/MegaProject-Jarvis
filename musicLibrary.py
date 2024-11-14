@@ -1,0 +1,9 @@
+music={
+    "dil":"https://www.youtube.com/watch?v=suC_Y2eZtAw&list=RDsuC_Y2eZtAw&start_radio=1",
+    "pass":"https://www.youtube.com/watch?v=20mcL6QvnN4&list=RDsuC_Y2eZtAw&index=3",
+    "sky":"https://www.youtube.com/watch?v=DeumyOzKqgI",
+    "ha":"https://youtu.be/1yszd636ckI?si=vO7YVmnYxVOWdXGK",
+    "tum":"https://youtu.be/qxlLzRFdF1g?si=ylnRCsOZzNP_cfq-",
+    "prem":"https://youtu.be/Feoea8FQTI0?si=3fHHiJHnem0MBpqN",
+    "only":"https://youtu.be/-HwPKDlb3e8?si=_wO1r8vc5ELalMhA"
+}
